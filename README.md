@@ -1,3 +1,14 @@
+```math
+E=mc^2
+\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t
+```
+
+$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$
+$$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$$
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tidalmelon/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
