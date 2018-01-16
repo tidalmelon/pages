@@ -1,3 +1,6 @@
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t" title="\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t" /></a>
+
+
 ```math
 E=mc^2
 \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t
