@@ -7,6 +7,8 @@ $\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$
 $$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$$
 
 
+L(x,y)=f(x,y) + \lambda{\phi}(x,y)L(x,y)=f(x,y)+λϕ(x,y)
+
 
 
 ## Welcome to GitHub Pages
