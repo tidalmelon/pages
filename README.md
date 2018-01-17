@@ -1,3 +1,38 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+formula1: $$n==x$$
+
+formula2: $$n!=x$$
+
+formula3: (m==y)
+
+formula4: [m!=y]
+
+formula5: \(k==z\)
+
+formula6: \[k!=z\]
+
+
+$E=mc^2
+\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$
+
+$$
+E=mc^2
+\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t
+$$
+
+
+E=mc^2
+\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t
+
+
+
+
+
+
+
+
+
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t" title="\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t" /></a>
 
 <img src="https://latex.codecogs.com/gif.latex?L(x,y)=f(x,y)&plus;\lambda{\phi}(x,y)" title="\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t" />
